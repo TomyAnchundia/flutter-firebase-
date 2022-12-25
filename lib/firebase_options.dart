@@ -45,7 +45,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyAFt5sSZ15T1jF8aZGUgKkCAiFi9ra-Opo',
-    appId: '1:983068143451:web:f0b426b61ee1a11f86747e',
+    appId: '1:983068143451:web:47fe90c96d3dcb2986747e',
     messagingSenderId: '983068143451',
     projectId: 'fir-flutter-codelab-ccc92',
     authDomain: 'fir-flutter-codelab-ccc92.firebaseapp.com',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyD46_wMKYUYI_ls5t2bMFEWfGoOcLNRjyo',
-    appId: '1:983068143451:android:492a12b3606ecd4386747e',
+    appId: '1:983068143451:android:13633a76c856d37086747e',
     messagingSenderId: '983068143451',
     projectId: 'fir-flutter-codelab-ccc92',
     storageBucket: 'fir-flutter-codelab-ccc92.appspot.com',
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyDmhMC_yAM276afUy23-R5wrlJUGGOxXSA',
-    appId: '1:983068143451:ios:4b0758a98d57a2a986747e',
+    appId: '1:983068143451:ios:8d59cb80324c30a486747e',
     messagingSenderId: '983068143451',
     projectId: 'fir-flutter-codelab-ccc92',
     storageBucket: 'fir-flutter-codelab-ccc92.appspot.com',
@@ -72,7 +72,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyDmhMC_yAM276afUy23-R5wrlJUGGOxXSA',
-    appId: '1:983068143451:ios:4b0758a98d57a2a986747e',
+    appId: '1:983068143451:ios:8d59cb80324c30a486747e',
     messagingSenderId: '983068143451',
     projectId: 'fir-flutter-codelab-ccc92',
     storageBucket: 'fir-flutter-codelab-ccc92.appspot.com',
